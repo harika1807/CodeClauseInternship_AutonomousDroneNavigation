@@ -36,7 +36,7 @@ Open the Jupyter Notebook or run the Python file:
 - In Jupyter Notebook: open `AutonomousDroneNavigation.ipynb`
 - Or run: `python drone_navigation.py`
 
-You can also try it in [Google Colab](https://colab.research.google.com/) for free cloud execution.
+You can also try it in [Google Colab](https://colab.research.google.com/github/harika1807/CodeClauseInternship_DroneNavigation/blob/main/DroneNavigation.ipynb) for free cloud execution.
 
 ## 🎯 Project Objective
 
